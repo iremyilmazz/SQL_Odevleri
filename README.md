@@ -1,2 +1,2 @@
 # SQL_Odevleri
-## patika.dev SQL eğitimindeki ödevleri içermektedir.
+**patika.dev SQL eğitimindeki ödevleri içermektedir.
